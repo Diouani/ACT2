@@ -1,0 +1,63 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 207,
+            "destination_map_x": 181,
+            "destination_map_y": 24,
+            "source_map_id": 205,
+            "source_map_x": 19,
+            "source_map_y": 185,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 179,
+            "destination_map_x": 123,
+            "destination_map_y": 43,
+            "source_map_id": 205,
+            "source_map_x": 100,
+            "source_map_y": 21,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 2553,
+            "destination_map_x": 16,
+            "destination_map_y": 37,
+            "source_map_id": 205,
+            "source_map_x": 184,
+            "source_map_y": 126,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 206,
+            "destination_map_x": 18,
+            "destination_map_y": 24,
+            "source_map_id": 205,
+            "source_map_x": 186,
+            "source_map_y": 182,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [],
+    "shops": [],
+    "npcs": [
+        {
+            "id": 12137,
+            "vnum": 2001,
+            "x": 119,
+            "y": 24
+        },
+        {
+            "id": 12136,
+            "vnum": 1074,
+            "x": 124,
+            "y": 23
+        },
+        {
+            "id": 12135,
+            "vnum": 1074,
+            "x": 114,
+            "y": 23
+        }
+    ],
+    "teleporters": []
+}

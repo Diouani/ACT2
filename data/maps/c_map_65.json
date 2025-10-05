@@ -1,0 +1,26 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 11,
+            "destination_map_x": 118,
+            "destination_map_y": 85,
+            "source_map_id": 65,
+            "source_map_x": 4,
+            "source_map_y": 29,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [
+        {
+            "x": 77,
+            "y": 57,
+            "id": 630,
+            "type": 4,
+            "min_level": 47,
+            "max_level": 99
+        }
+    ],
+    "shops": [],
+    "npcs": [],
+    "teleporters": []
+}

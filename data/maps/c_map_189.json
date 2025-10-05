@@ -1,0 +1,494 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 201,
+            "destination_map_x": 12,
+            "destination_map_y": 39,
+            "source_map_id": 189,
+            "source_map_x": 33,
+            "source_map_y": 178,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 199,
+            "destination_map_x": 42,
+            "destination_map_y": 12,
+            "source_map_id": 189,
+            "source_map_x": 39,
+            "source_map_y": 39,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 200,
+            "destination_map_x": 26,
+            "destination_map_y": 17,
+            "source_map_id": 189,
+            "source_map_x": 101,
+            "source_map_y": 112,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 188,
+            "destination_map_x": 42,
+            "destination_map_y": 135,
+            "source_map_id": 189,
+            "source_map_x": 190,
+            "source_map_y": 36,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [],
+    "shops": [
+        {
+            "npc_id": 11610,
+            "npc_vnum": 1577,
+            "npc_x": 41,
+            "npc_y": 185,
+            "menu_type": 0,
+            "shop_type": 116
+        },
+        {
+            "npc_id": 11609,
+            "npc_vnum": 2045,
+            "npc_x": 46,
+            "npc_y": 157,
+            "menu_type": 0,
+            "shop_type": 54
+        },
+        {
+            "npc_id": 11608,
+            "npc_vnum": 2033,
+            "npc_x": 49,
+            "npc_y": 165,
+            "menu_type": 0,
+            "shop_type": 52
+        },
+        {
+            "npc_id": 11607,
+            "npc_vnum": 1431,
+            "npc_x": 40,
+            "npc_y": 183,
+            "menu_type": 5,
+            "shop_type": 48
+        },
+        {
+            "npc_id": 11606,
+            "npc_vnum": 793,
+            "npc_x": 57,
+            "npc_y": 137,
+            "menu_type": 0,
+            "shop_type": 45
+        },
+        {
+            "npc_id": 11605,
+            "npc_vnum": 1269,
+            "npc_x": 42,
+            "npc_y": 193,
+            "menu_type": 0,
+            "shop_type": 41
+        },
+        {
+            "npc_id": 11604,
+            "npc_vnum": 1367,
+            "npc_x": 127,
+            "npc_y": 189,
+            "menu_type": 0,
+            "shop_type": 40
+        },
+        {
+            "npc_id": 11603,
+            "npc_vnum": 1366,
+            "npc_x": 110,
+            "npc_y": 133,
+            "menu_type": 0,
+            "shop_type": 39
+        },
+        {
+            "npc_id": 11602,
+            "npc_vnum": 1365,
+            "npc_x": 185,
+            "npc_y": 168,
+            "menu_type": 0,
+            "shop_type": 37
+        },
+        {
+            "npc_id": 11601,
+            "npc_vnum": 1364,
+            "npc_x": 137,
+            "npc_y": 191,
+            "menu_type": 0,
+            "shop_type": 36
+        },
+        {
+            "npc_id": 11600,
+            "npc_vnum": 1363,
+            "npc_x": 131,
+            "npc_y": 171,
+            "menu_type": 0,
+            "shop_type": 35
+        },
+        {
+            "npc_id": 11599,
+            "npc_vnum": 1362,
+            "npc_x": 19,
+            "npc_y": 164,
+            "menu_type": 0,
+            "shop_type": 34
+        },
+        {
+            "npc_id": 11598,
+            "npc_vnum": 1345,
+            "npc_x": 19,
+            "npc_y": 154,
+            "menu_type": 0,
+            "shop_type": 33
+        },
+        {
+            "npc_id": 11597,
+            "npc_vnum": 1344,
+            "npc_x": 20,
+            "npc_y": 141,
+            "menu_type": 0,
+            "shop_type": 32
+        },
+        {
+            "npc_id": 11596,
+            "npc_vnum": 1343,
+            "npc_x": 47,
+            "npc_y": 139,
+            "menu_type": 0,
+            "shop_type": 31
+        },
+        {
+            "npc_id": 11595,
+            "npc_vnum": 955,
+            "npc_x": 42,
+            "npc_y": 168,
+            "menu_type": 0,
+            "shop_type": 0
+        },
+        {
+            "npc_id": 11594,
+            "npc_vnum": 330,
+            "npc_x": 68,
+            "npc_y": 154,
+            "menu_type": 0,
+            "shop_type": 82
+        }
+    ],
+    "npcs": [
+        {
+            "id": 11610,
+            "vnum": 1577,
+            "x": 41,
+            "y": 185
+        },
+        {
+            "id": 11609,
+            "vnum": 2045,
+            "x": 46,
+            "y": 157
+        },
+        {
+            "id": 11608,
+            "vnum": 2033,
+            "x": 49,
+            "y": 165
+        },
+        {
+            "id": 11607,
+            "vnum": 1431,
+            "x": 40,
+            "y": 183
+        },
+        {
+            "id": 11606,
+            "vnum": 793,
+            "x": 57,
+            "y": 137
+        },
+        {
+            "id": 11605,
+            "vnum": 1269,
+            "x": 42,
+            "y": 193
+        },
+        {
+            "id": 11604,
+            "vnum": 1367,
+            "x": 127,
+            "y": 189
+        },
+        {
+            "id": 11603,
+            "vnum": 1366,
+            "x": 110,
+            "y": 133
+        },
+        {
+            "id": 11602,
+            "vnum": 1365,
+            "x": 185,
+            "y": 168
+        },
+        {
+            "id": 11601,
+            "vnum": 1364,
+            "x": 137,
+            "y": 191
+        },
+        {
+            "id": 11600,
+            "vnum": 1363,
+            "x": 131,
+            "y": 171
+        },
+        {
+            "id": 11599,
+            "vnum": 1362,
+            "x": 19,
+            "y": 164
+        },
+        {
+            "id": 11598,
+            "vnum": 1345,
+            "x": 19,
+            "y": 154
+        },
+        {
+            "id": 11597,
+            "vnum": 1344,
+            "x": 20,
+            "y": 141
+        },
+        {
+            "id": 11596,
+            "vnum": 1343,
+            "x": 47,
+            "y": 139
+        },
+        {
+            "id": 11595,
+            "vnum": 955,
+            "x": 42,
+            "y": 168
+        },
+        {
+            "id": 11594,
+            "vnum": 330,
+            "x": 68,
+            "y": 154
+        },
+        {
+            "id": 11593,
+            "vnum": 2676,
+            "x": 88,
+            "y": 79
+        },
+        {
+            "id": 11592,
+            "vnum": 2675,
+            "x": 151,
+            "y": 40
+        },
+        {
+            "id": 11591,
+            "vnum": 1078,
+            "x": 176,
+            "y": 97
+        },
+        {
+            "id": 11590,
+            "vnum": 1078,
+            "x": 171,
+            "y": 163
+        },
+        {
+            "id": 11589,
+            "vnum": 1078,
+            "x": 147,
+            "y": 57
+        },
+        {
+            "id": 11588,
+            "vnum": 1078,
+            "x": 141,
+            "y": 138
+        },
+        {
+            "id": 11587,
+            "vnum": 1078,
+            "x": 103,
+            "y": 126
+        },
+        {
+            "id": 11586,
+            "vnum": 1078,
+            "x": 96,
+            "y": 176
+        },
+        {
+            "id": 11585,
+            "vnum": 1078,
+            "x": 82,
+            "y": 75
+        },
+        {
+            "id": 11584,
+            "vnum": 1078,
+            "x": 58,
+            "y": 137
+        },
+        {
+            "id": 11583,
+            "vnum": 1078,
+            "x": 46,
+            "y": 174
+        },
+        {
+            "id": 11582,
+            "vnum": 1077,
+            "x": 190,
+            "y": 118
+        },
+        {
+            "id": 11581,
+            "vnum": 1077,
+            "x": 178,
+            "y": 152
+        },
+        {
+            "id": 11580,
+            "vnum": 1077,
+            "x": 170,
+            "y": 52
+        },
+        {
+            "id": 11579,
+            "vnum": 1077,
+            "x": 145,
+            "y": 80
+        },
+        {
+            "id": 11578,
+            "vnum": 1077,
+            "x": 140,
+            "y": 132
+        },
+        {
+            "id": 11577,
+            "vnum": 1077,
+            "x": 130,
+            "y": 95
+        },
+        {
+            "id": 11576,
+            "vnum": 1077,
+            "x": 129,
+            "y": 47
+        },
+        {
+            "id": 11575,
+            "vnum": 1077,
+            "x": 31,
+            "y": 102
+        },
+        {
+            "id": 11574,
+            "vnum": 1076,
+            "x": 188,
+            "y": 96
+        },
+        {
+            "id": 11573,
+            "vnum": 1076,
+            "x": 178,
+            "y": 138
+        },
+        {
+            "id": 11572,
+            "vnum": 1076,
+            "x": 111,
+            "y": 171
+        },
+        {
+            "id": 11571,
+            "vnum": 1074,
+            "x": 189,
+            "y": 46
+        },
+        {
+            "id": 11570,
+            "vnum": 1074,
+            "x": 176,
+            "y": 30
+        },
+        {
+            "id": 11569,
+            "vnum": 1074,
+            "x": 169,
+            "y": 80
+        },
+        {
+            "id": 11568,
+            "vnum": 1074,
+            "x": 115,
+            "y": 116
+        },
+        {
+            "id": 11567,
+            "vnum": 1074,
+            "x": 63,
+            "y": 55
+        },
+        {
+            "id": 11566,
+            "vnum": 1073,
+            "x": 196,
+            "y": 155
+        },
+        {
+            "id": 11565,
+            "vnum": 1072,
+            "x": 196,
+            "y": 129
+        },
+        {
+            "id": 1589266,
+            "vnum": 836,
+            "x": 52,
+            "y": 163
+        },
+        {
+            "id": 564879,
+            "vnum": 1488,
+            "x": 46,
+            "y": 153
+        },
+        {
+            "id": 1613365,
+            "vnum": 176,
+            "x": 47,
+            "y": 157
+        }
+    ],
+    "teleporters": [
+        {
+            "source_map_id": 189,
+            "source_map_x": 42,
+            "source_map_y": 168,
+            "destinations": [
+                {
+                    "destination_map_id": 177,
+                    "destination_map_x": 142,
+                    "destination_map_y": 120
+                },
+                {
+                    "destination_map_id": 170,
+                    "destination_map_x": 89,
+                    "destination_map_y": 45
+                }
+            ]
+        }
+    ]
+}

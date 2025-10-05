@@ -1,0 +1,331 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 4995,
+            "destination_map_x": null,
+            "destination_map_y": null,
+            "source_map_id": 145,
+            "source_map_x": 9,
+            "source_map_y": 171,
+            "portal_type": 3
+        },
+        {
+            "destination_map_id": 1,
+            "destination_map_x": 117,
+            "destination_map_y": 177,
+            "source_map_id": 145,
+            "source_map_x": 59,
+            "source_map_y": 2,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 264,
+            "destination_map_x": 14,
+            "destination_map_y": 25,
+            "source_map_id": 145,
+            "source_map_x": 86,
+            "source_map_y": 91,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 400,
+            "destination_map_x": 14,
+            "destination_map_y": 26,
+            "source_map_id": 145,
+            "source_map_x": 91,
+            "source_map_y": 112,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 147,
+            "destination_map_x": 18,
+            "destination_map_y": 58,
+            "source_map_id": 145,
+            "source_map_x": 107,
+            "source_map_y": 151,
+            "portal_type": 20
+        },
+        {
+            "destination_map_id": 146,
+            "destination_map_x": 3,
+            "destination_map_y": 169,
+            "source_map_id": 145,
+            "source_map_x": 125,
+            "source_map_y": 168,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 146,
+            "destination_map_x": 3,
+            "destination_map_y": 118,
+            "source_map_id": 145,
+            "source_map_x": 115,
+            "source_map_y": 117,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 146,
+            "destination_map_x": 2,
+            "destination_map_y": 85,
+            "source_map_id": 145,
+            "source_map_x": 104,
+            "source_map_y": 87,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 146,
+            "destination_map_x": 9,
+            "destination_map_y": 6,
+            "source_map_id": 145,
+            "source_map_x": 87,
+            "source_map_y": 6,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [],
+    "shops": [
+        {
+            "npc_id": 9936,
+            "npc_vnum": 3093,
+            "npc_x": 50,
+            "npc_y": 28,
+            "menu_type": 0,
+            "shop_type": 91
+        },
+        {
+            "npc_id": 9935,
+            "npc_vnum": 2308,
+            "npc_x": 52,
+            "npc_y": 50,
+            "menu_type": 0,
+            "shop_type": 63
+        },
+        {
+            "npc_id": 9934,
+            "npc_vnum": 2307,
+            "npc_x": 52,
+            "npc_y": 33,
+            "menu_type": 0,
+            "shop_type": 62
+        },
+        {
+            "npc_id": 9933,
+            "npc_vnum": 793,
+            "npc_x": 70,
+            "npc_y": 44,
+            "menu_type": 0,
+            "shop_type": 45
+        },
+        {
+            "npc_id": 9932,
+            "npc_vnum": 534,
+            "npc_x": 59,
+            "npc_y": 167,
+            "menu_type": 0,
+            "shop_type": 42
+        },
+        {
+            "npc_id": 9931,
+            "npc_vnum": 1351,
+            "npc_x": 48,
+            "npc_y": 44,
+            "menu_type": 0,
+            "shop_type": 0
+        },
+        {
+            "npc_id": 9930,
+            "npc_vnum": 955,
+            "npc_x": 59,
+            "npc_y": 124,
+            "menu_type": 0,
+            "shop_type": 0
+        },
+        {
+            "npc_id": 9929,
+            "npc_vnum": 613,
+            "npc_x": 70,
+            "npc_y": 39,
+            "menu_type": 0,
+            "shop_type": 30
+        },
+        {
+            "npc_id": 9928,
+            "npc_vnum": 540,
+            "npc_x": 48,
+            "npc_y": 41,
+            "menu_type": 0,
+            "shop_type": 0
+        },
+        {
+            "npc_id": 9927,
+            "npc_vnum": 330,
+            "npc_x": 85,
+            "npc_y": 76,
+            "menu_type": 0,
+            "shop_type": 82
+        }
+    ],
+    "npcs": [
+        {
+            "id": 9936,
+            "vnum": 3093,
+            "x": 50,
+            "y": 28
+        },
+        {
+            "id": 9935,
+            "vnum": 2308,
+            "x": 52,
+            "y": 50
+        },
+        {
+            "id": 9934,
+            "vnum": 2307,
+            "x": 52,
+            "y": 33
+        },
+        {
+            "id": 9933,
+            "vnum": 793,
+            "x": 70,
+            "y": 44
+        },
+        {
+            "id": 9932,
+            "vnum": 534,
+            "x": 59,
+            "y": 167
+        },
+        {
+            "id": 9931,
+            "vnum": 1351,
+            "x": 48,
+            "y": 44
+        },
+        {
+            "id": 9930,
+            "vnum": 955,
+            "x": 59,
+            "y": 124
+        },
+        {
+            "id": 9929,
+            "vnum": 613,
+            "x": 70,
+            "y": 39
+        },
+        {
+            "id": 9928,
+            "vnum": 540,
+            "x": 48,
+            "y": 41
+        },
+        {
+            "id": 9927,
+            "vnum": 330,
+            "x": 85,
+            "y": 76
+        },
+        {
+            "id": 9926,
+            "vnum": 2658,
+            "x": 69,
+            "y": 29
+        },
+        {
+            "id": 9925,
+            "vnum": 2658,
+            "x": 69,
+            "y": 27
+        },
+        {
+            "id": 9924,
+            "vnum": 2654,
+            "x": 48,
+            "y": 38
+        },
+        {
+            "id": 9923,
+            "vnum": 2584,
+            "x": 69,
+            "y": 55
+        }
+    ],
+    "teleporters": [
+        {
+            "source_map_id": 145,
+            "source_map_x": 59,
+            "source_map_y": 124,
+            "destinations": [
+                {
+                    "destination_map_id": 1,
+                    "destination_map_x": 67,
+                    "destination_map_y": 56
+                },
+                {
+                    "destination_map_id": 20,
+                    "destination_map_x": 14,
+                    "destination_map_y": 86
+                },
+                {
+                    "destination_map_id": 2700,
+                    "destination_map_x": 57,
+                    "destination_map_y": 81
+                }
+            ]
+        },
+        {
+            "source_map_id": 145,
+            "source_map_x": 20,
+            "source_map_y": 44,
+            "destinations": [
+                {
+                    "destination_map_id": 170,
+                    "destination_map_x": 145,
+                    "destination_map_y": 44
+                }
+            ]
+        },
+        {
+            "source_map_id": 145,
+            "source_map_x": 50,
+            "source_map_y": 28,
+            "destinations": [
+                {
+                    "destination_map_id": 2631,
+                    "destination_map_x": 42,
+                    "destination_map_y": 58
+                }
+            ]
+        },
+        {
+            "source_map_id": 145,
+            "source_map_x": 20,
+            "source_map_y": 24,
+            "destinations": [
+                {
+                    "destination_map_id": 261,
+                    "destination_map_x": 171,
+                    "destination_map_y": 213
+                }
+            ]
+        },
+        {
+            "source_map_id": 145,
+            "source_map_x": 20,
+            "source_map_y": 34,
+            "destinations": [
+                {
+                    "destination_map_id": 130,
+                    "destination_map_x": 15,
+                    "destination_map_y": 44
+                },
+                {
+                    "destination_map_id": 131,
+                    "destination_map_x": 15,
+                    "destination_map_y": 44
+                }
+            ]
+        }
+    ]
+}

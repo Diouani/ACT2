@@ -1,0 +1,247 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 171,
+            "destination_map_x": 198,
+            "destination_map_y": 175,
+            "source_map_id": 170,
+            "source_map_x": 5,
+            "source_map_y": 67,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [],
+    "shops": [
+        {
+            "npc_id": 10464,
+            "npc_vnum": 3109,
+            "npc_x": 91,
+            "npc_y": 68,
+            "menu_type": 0,
+            "shop_type": 94
+        },
+        {
+            "npc_id": 10463,
+            "npc_vnum": 1365,
+            "npc_x": 48,
+            "npc_y": 57,
+            "menu_type": 0,
+            "shop_type": 37
+        },
+        {
+            "npc_id": 10462,
+            "npc_vnum": 1364,
+            "npc_x": 29,
+            "npc_y": 50,
+            "menu_type": 0,
+            "shop_type": 36
+        },
+        {
+            "npc_id": 10461,
+            "npc_vnum": 1363,
+            "npc_x": 45,
+            "npc_y": 78,
+            "menu_type": 0,
+            "shop_type": 35
+        },
+        {
+            "npc_id": 10460,
+            "npc_vnum": 1350,
+            "npc_x": 145,
+            "npc_y": 44,
+            "menu_type": 0,
+            "shop_type": 0
+        },
+        {
+            "npc_id": 10459,
+            "npc_vnum": 955,
+            "npc_x": 89,
+            "npc_y": 45,
+            "menu_type": 0,
+            "shop_type": 0
+        }
+    ],
+    "npcs": [
+        {
+            "id": 10464,
+            "vnum": 3109,
+            "x": 91,
+            "y": 68
+        },
+        {
+            "id": 10463,
+            "vnum": 1365,
+            "x": 48,
+            "y": 57
+        },
+        {
+            "id": 10462,
+            "vnum": 1364,
+            "x": 29,
+            "y": 50
+        },
+        {
+            "id": 10461,
+            "vnum": 1363,
+            "x": 45,
+            "y": 78
+        },
+        {
+            "id": 10460,
+            "vnum": 1350,
+            "x": 145,
+            "y": 44
+        },
+        {
+            "id": 10459,
+            "vnum": 955,
+            "x": 89,
+            "y": 45
+        },
+        {
+            "id": 10458,
+            "vnum": 3081,
+            "x": 126,
+            "y": 89
+        },
+        {
+            "id": 10457,
+            "vnum": 3081,
+            "x": 124,
+            "y": 85
+        },
+        {
+            "id": 10456,
+            "vnum": 3081,
+            "x": 124,
+            "y": 81
+        },
+        {
+            "id": 10455,
+            "vnum": 3080,
+            "x": 134,
+            "y": 84
+        },
+        {
+            "id": 10454,
+            "vnum": 3080,
+            "x": 134,
+            "y": 79
+        },
+        {
+            "id": 10453,
+            "vnum": 3080,
+            "x": 129,
+            "y": 87
+        },
+        {
+            "id": 10452,
+            "vnum": 2658,
+            "x": 88,
+            "y": 52
+        },
+        {
+            "id": 10451,
+            "vnum": 2658,
+            "x": 87,
+            "y": 51
+        },
+        {
+            "id": 10450,
+            "vnum": 1380,
+            "x": 77,
+            "y": 19
+        },
+        {
+            "id": 10449,
+            "vnum": 1380,
+            "x": 69,
+            "y": 109
+        },
+        {
+            "id": 10448,
+            "vnum": 1380,
+            "x": 26,
+            "y": 30
+        },
+        {
+            "id": 10447,
+            "vnum": 1379,
+            "x": 29,
+            "y": 104
+        },
+        {
+            "id": 10446,
+            "vnum": 1379,
+            "x": 13,
+            "y": 124
+        },
+        {
+            "id": 10445,
+            "vnum": 1074,
+            "x": 94,
+            "y": 61
+        },
+        {
+            "id": 10444,
+            "vnum": 1074,
+            "x": 14,
+            "y": 67
+        },
+        {
+            "id": 10443,
+            "vnum": 1062,
+            "x": 62,
+            "y": 82
+        },
+        {
+            "id": 10442,
+            "vnum": 1061,
+            "x": 128,
+            "y": 63
+        }
+    ],
+    "teleporters": [
+        {
+            "source_map_id": 170,
+            "source_map_x": 89,
+            "source_map_y": 45,
+            "destinations": [
+                {
+                    "destination_map_id": 177,
+                    "destination_map_x": 142,
+                    "destination_map_y": 120
+                },
+                {
+                    "destination_map_id": 189,
+                    "destination_map_x": 42,
+                    "destination_map_y": 168
+                }
+            ]
+        },
+        {
+            "source_map_id": 170,
+            "source_map_x": 145,
+            "source_map_y": 44,
+            "destinations": [
+                {
+                    "destination_map_id": 145,
+                    "destination_map_x": 20,
+                    "destination_map_y": 44
+                }
+            ]
+        },
+        {
+            "source_map_id": 170,
+            "source_map_x": 91,
+            "source_map_y": 68,
+            "destinations": [
+                {
+                    "destination_map_id": 2631,
+                    "destination_map_x": 42,
+                    "destination_map_y": 58
+                }
+            ]
+        }
+    ]
+}

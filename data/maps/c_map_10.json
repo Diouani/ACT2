@@ -1,0 +1,94 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 63,
+            "destination_map_x": 15,
+            "destination_map_y": 7,
+            "source_map_id": 10,
+            "source_map_x": 3,
+            "source_map_y": 35,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 54,
+            "destination_map_x": 22,
+            "destination_map_y": 32,
+            "source_map_id": 10,
+            "source_map_x": 23,
+            "source_map_y": 2,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 11,
+            "destination_map_x": 55,
+            "destination_map_y": 58,
+            "source_map_id": 10,
+            "source_map_x": 60,
+            "source_map_y": 68,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 5,
+            "destination_map_x": 96,
+            "destination_map_y": 3,
+            "source_map_id": 10,
+            "source_map_x": 60,
+            "source_map_y": 120,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [
+        {
+            "x": 60,
+            "y": 25,
+            "id": 32,
+            "type": 4,
+            "min_level": 42,
+            "max_level": 99
+        },
+        {
+            "x": 60,
+            "y": 92,
+            "id": 31,
+            "type": 4,
+            "min_level": 41,
+            "max_level": 99
+        },
+        {
+            "x": 98,
+            "y": 2,
+            "id": 33,
+            "type": 12,
+            "min_level": 43,
+            "max_level": 99
+        }
+    ],
+    "shops": [],
+    "npcs": [
+        {
+            "id": 4161,
+            "vnum": 866,
+            "x": 4,
+            "y": 111
+        },
+        {
+            "id": 4160,
+            "vnum": 866,
+            "x": 4,
+            "y": 107
+        },
+        {
+            "id": 4159,
+            "vnum": 866,
+            "x": 4,
+            "y": 103
+        },
+        {
+            "id": 4158,
+            "vnum": 866,
+            "x": 4,
+            "y": 99
+        }
+    ],
+    "teleporters": []
+}

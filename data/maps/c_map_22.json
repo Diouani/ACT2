@@ -1,0 +1,162 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 120,
+            "destination_map_x": 19,
+            "destination_map_y": 2,
+            "source_map_id": 22,
+            "source_map_x": 14,
+            "source_map_y": 14,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 100,
+            "destination_map_x": 6,
+            "destination_map_y": 82,
+            "source_map_id": 22,
+            "source_map_x": 29,
+            "source_map_y": 55,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 20,
+            "destination_map_x": 54,
+            "destination_map_y": 4,
+            "source_map_id": 22,
+            "source_map_x": 32,
+            "source_map_y": 93,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 21,
+            "destination_map_x": 198,
+            "destination_map_y": 9,
+            "source_map_id": 22,
+            "source_map_x": 90,
+            "source_map_y": 105,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 2540,
+            "destination_map_x": 27,
+            "destination_map_y": 39,
+            "source_map_id": 22,
+            "source_map_x": 95,
+            "source_map_y": 62,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 98,
+            "destination_map_x": 42,
+            "destination_map_y": 14,
+            "source_map_id": 22,
+            "source_map_x": 125,
+            "source_map_y": 51,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [],
+    "shops": [
+        {
+            "npc_id": 5214,
+            "npc_vnum": 952,
+            "npc_x": 4,
+            "npc_y": 30,
+            "menu_type": 0,
+            "shop_type": 0
+        }
+    ],
+    "npcs": [
+        {
+            "id": 5214,
+            "vnum": 952,
+            "x": 4,
+            "y": 30
+        },
+        {
+            "id": 5213,
+            "vnum": 917,
+            "x": 85,
+            "y": 44
+        },
+        {
+            "id": 5212,
+            "vnum": 914,
+            "x": 29,
+            "y": 34
+        },
+        {
+            "id": 5211,
+            "vnum": 914,
+            "x": 29,
+            "y": 31
+        },
+        {
+            "id": 5210,
+            "vnum": 914,
+            "x": 21,
+            "y": 36
+        },
+        {
+            "id": 5209,
+            "vnum": 914,
+            "x": 19,
+            "y": 38
+        },
+        {
+            "id": 5208,
+            "vnum": 914,
+            "x": 18,
+            "y": 41
+        },
+        {
+            "id": 5207,
+            "vnum": 906,
+            "x": 32,
+            "y": 26
+        },
+        {
+            "id": 5206,
+            "vnum": 3238,
+            "x": 92,
+            "y": 29
+        },
+        {
+            "id": 5205,
+            "vnum": 3131,
+            "x": 48,
+            "y": 65
+        },
+        {
+            "id": 5204,
+            "vnum": 3131,
+            "x": 35,
+            "y": 64
+        },
+        {
+            "id": 5203,
+            "vnum": 3131,
+            "x": 109,
+            "y": 43
+        },
+        {
+            "id": 5202,
+            "vnum": 3131,
+            "x": 117,
+            "y": 45
+        },
+        {
+            "id": 5201,
+            "vnum": 3131,
+            "x": 14,
+            "y": 73
+        },
+        {
+            "id": 1285876,
+            "vnum": 616,
+            "x": 35,
+            "y": 65
+        }
+    ],
+    "teleporters": []
+}

@@ -1,0 +1,60 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 20,
+            "destination_map_x": 35,
+            "destination_map_y": 72,
+            "source_map_id": 87,
+            "source_map_x": 19,
+            "source_map_y": 23,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [
+        {
+            "x": 5,
+            "y": 4,
+            "id": 76,
+            "type": 12,
+            "min_level": 78,
+            "max_level": 99
+        }
+    ],
+    "shops": [
+        {
+            "npc_id": 8148,
+            "npc_vnum": 3202,
+            "npc_x": 21,
+            "npc_y": 7,
+            "menu_type": 0,
+            "shop_type": 0
+        }
+    ],
+    "npcs": [
+        {
+            "id": 8148,
+            "vnum": 3202,
+            "x": 21,
+            "y": 7
+        },
+        {
+            "id": 8147,
+            "vnum": 393,
+            "x": 10,
+            "y": 3
+        },
+        {
+            "id": 8146,
+            "vnum": 392,
+            "x": 14,
+            "y": 0
+        },
+        {
+            "id": 8145,
+            "vnum": 327,
+            "x": 18,
+            "y": 3
+        }
+    ],
+    "teleporters": []
+}

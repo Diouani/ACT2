@@ -1,0 +1,332 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 85,
+            "destination_map_x": 6,
+            "destination_map_y": 8,
+            "source_map_id": 20,
+            "source_map_x": 18,
+            "source_map_y": 190,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 87,
+            "destination_map_x": 19,
+            "destination_map_y": 23,
+            "source_map_id": 20,
+            "source_map_x": 35,
+            "source_map_y": 72,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 25,
+            "destination_map_x": 78,
+            "destination_map_y": 113,
+            "source_map_id": 20,
+            "source_map_x": 49,
+            "source_map_y": 72,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 22,
+            "destination_map_x": 32,
+            "destination_map_y": 93,
+            "source_map_id": 20,
+            "source_map_x": 54,
+            "source_map_y": 4,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 23,
+            "destination_map_x": 45,
+            "destination_map_y": 81,
+            "source_map_id": 20,
+            "source_map_x": 69,
+            "source_map_y": 139,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 88,
+            "destination_map_x": 13,
+            "destination_map_y": 4,
+            "source_map_id": 20,
+            "source_map_x": 98,
+            "source_map_y": 94,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 12,
+            "destination_map_x": 60,
+            "destination_map_y": 3,
+            "source_map_id": 20,
+            "source_map_x": 197,
+            "source_map_y": 248,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 24,
+            "destination_map_x": 45,
+            "destination_map_y": 113,
+            "source_map_id": 20,
+            "source_map_x": 205,
+            "source_map_y": 119,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 21,
+            "destination_map_x": 16,
+            "destination_map_y": 118,
+            "source_map_id": 20,
+            "source_map_x": 220,
+            "source_map_y": 129,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 21,
+            "destination_map_x": 12,
+            "destination_map_y": 14,
+            "source_map_id": 20,
+            "source_map_x": 221,
+            "source_map_y": 24,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [
+        {
+            "x": 34,
+            "y": 113,
+            "id": 46,
+            "type": 4,
+            "min_level": 56,
+            "max_level": 99
+        }
+    ],
+    "shops": [
+        {
+            "npc_id": 4918,
+            "npc_vnum": 955,
+            "npc_x": 40,
+            "npc_y": 93,
+            "menu_type": 0,
+            "shop_type": 0
+        },
+        {
+            "npc_id": 4917,
+            "npc_vnum": 113,
+            "npc_x": 40,
+            "npc_y": 110,
+            "menu_type": 0,
+            "shop_type": 10
+        },
+        {
+            "npc_id": 4916,
+            "npc_vnum": 110,
+            "npc_x": 59,
+            "npc_y": 71,
+            "menu_type": 4,
+            "shop_type": 9
+        },
+        {
+            "npc_id": 4915,
+            "npc_vnum": 330,
+            "npc_x": 14,
+            "npc_y": 86,
+            "menu_type": 0,
+            "shop_type": 82
+        },
+        {
+            "npc_id": 4914,
+            "npc_vnum": 325,
+            "npc_x": 65,
+            "npc_y": 96,
+            "menu_type": 0,
+            "shop_type": 11
+        },
+        {
+            "npc_id": 4913,
+            "npc_vnum": 327,
+            "npc_x": 21,
+            "npc_y": 84,
+            "menu_type": 0,
+            "shop_type": 8
+        }
+    ],
+    "npcs": [
+        {
+            "id": 4918,
+            "vnum": 955,
+            "x": 40,
+            "y": 93
+        },
+        {
+            "id": 4917,
+            "vnum": 113,
+            "x": 40,
+            "y": 110
+        },
+        {
+            "id": 4916,
+            "vnum": 110,
+            "x": 59,
+            "y": 71
+        },
+        {
+            "id": 4915,
+            "vnum": 330,
+            "x": 14,
+            "y": 86
+        },
+        {
+            "id": 4914,
+            "vnum": 325,
+            "x": 65,
+            "y": 96
+        },
+        {
+            "id": 4913,
+            "vnum": 327,
+            "x": 21,
+            "y": 84
+        },
+        {
+            "id": 4912,
+            "vnum": 910,
+            "x": 139,
+            "y": 62
+        },
+        {
+            "id": 4911,
+            "vnum": 910,
+            "x": 74,
+            "y": 92
+        },
+        {
+            "id": 4910,
+            "vnum": 909,
+            "x": 101,
+            "y": 71
+        },
+        {
+            "id": 4909,
+            "vnum": 909,
+            "x": 100,
+            "y": 71
+        },
+        {
+            "id": 4908,
+            "vnum": 909,
+            "x": 99,
+            "y": 71
+        },
+        {
+            "id": 4907,
+            "vnum": 908,
+            "x": 92,
+            "y": 71
+        },
+        {
+            "id": 4906,
+            "vnum": 908,
+            "x": 91,
+            "y": 71
+        },
+        {
+            "id": 4905,
+            "vnum": 908,
+            "x": 90,
+            "y": 71
+        },
+        {
+            "id": 4904,
+            "vnum": 907,
+            "x": 80,
+            "y": 72
+        },
+        {
+            "id": 4903,
+            "vnum": 3131,
+            "x": 161,
+            "y": 26
+        },
+        {
+            "id": 4902,
+            "vnum": 3131,
+            "x": 55,
+            "y": 43
+        },
+        {
+            "id": 4901,
+            "vnum": 3131,
+            "x": 177,
+            "y": 30
+        },
+        {
+            "id": 4900,
+            "vnum": 3131,
+            "x": 194,
+            "y": 196
+        },
+        {
+            "id": 4899,
+            "vnum": 3131,
+            "x": 146,
+            "y": 29
+        },
+        {
+            "id": 4898,
+            "vnum": 2658,
+            "x": 18,
+            "y": 89
+        },
+        {
+            "id": 4897,
+            "vnum": 116,
+            "x": 85,
+            "y": 80
+        },
+        {
+            "id": 4896,
+            "vnum": 116,
+            "x": 84,
+            "y": 75
+        },
+        {
+            "id": 4895,
+            "vnum": 116,
+            "x": 22,
+            "y": 124
+        },
+        {
+            "id": 4894,
+            "vnum": 113,
+            "x": 25,
+            "y": 97
+        },
+        {
+            "id": 4893,
+            "vnum": 109,
+            "x": 54,
+            "y": 82
+        },
+        {
+            "id": 4892,
+            "vnum": 106,
+            "x": 48,
+            "y": 96
+        }
+    ],
+    "teleporters": [
+        {
+            "source_map_id": 20,
+            "source_map_x": 14,
+            "source_map_y": 86,
+            "destinations": [
+                {
+                    "destination_map_id": 1,
+                    "destination_map_x": 67,
+                    "destination_map_y": 56
+                }
+            ]
+        }
+    ]
+}

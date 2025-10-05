@@ -1,0 +1,189 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 29,
+            "destination_map_x": 59,
+            "destination_map_y": 2,
+            "source_map_id": 21,
+            "source_map_x": 38,
+            "source_map_y": 64,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 26,
+            "destination_map_x": 103,
+            "destination_map_y": 76,
+            "source_map_id": 21,
+            "source_map_x": 55,
+            "source_map_y": 113,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 412,
+            "destination_map_x": 44,
+            "destination_map_y": 81,
+            "source_map_id": 21,
+            "source_map_x": 74,
+            "source_map_y": 153,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 21,
+            "destination_map_x": 96,
+            "destination_map_y": 150,
+            "source_map_id": 21,
+            "source_map_x": 96,
+            "source_map_y": 150,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 28,
+            "destination_map_x": 78,
+            "destination_map_y": 26,
+            "source_map_id": 21,
+            "source_map_x": 182,
+            "source_map_y": 180,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 27,
+            "destination_map_x": 7,
+            "destination_map_y": 8,
+            "source_map_id": 21,
+            "source_map_x": 189,
+            "source_map_y": 124,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 22,
+            "destination_map_x": 90,
+            "destination_map_y": 105,
+            "source_map_id": 21,
+            "source_map_x": 198,
+            "source_map_y": 9,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 46,
+            "destination_map_x": 2,
+            "destination_map_y": 2,
+            "source_map_id": 21,
+            "source_map_x": 201,
+            "source_map_y": 259,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 41,
+            "destination_map_x": 8,
+            "destination_map_y": 2,
+            "source_map_id": 21,
+            "source_map_x": 229,
+            "source_map_y": 237,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 20,
+            "destination_map_x": 221,
+            "destination_map_y": 24,
+            "source_map_id": 21,
+            "source_map_x": 12,
+            "source_map_y": 14,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 20,
+            "destination_map_x": 220,
+            "destination_map_y": 129,
+            "source_map_id": 21,
+            "source_map_x": 16,
+            "source_map_y": 118,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 33,
+            "destination_map_x": 9,
+            "destination_map_y": 30,
+            "source_map_id": 21,
+            "source_map_x": 63,
+            "source_map_y": 189,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 33,
+            "destination_map_x": 9,
+            "destination_map_y": 1,
+            "source_map_id": 21,
+            "source_map_x": 61,
+            "source_map_y": 64,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [
+        {
+            "x": 49,
+            "y": 130,
+            "id": 693,
+            "type": 4,
+            "min_level": 1,
+            "max_level": 99
+        },
+        {
+            "x": 99,
+            "y": 104,
+            "id": 53,
+            "type": 4,
+            "min_level": 60,
+            "max_level": 99
+        },
+        {
+            "x": 176,
+            "y": 53,
+            "id": 692,
+            "type": 4,
+            "min_level": 1,
+            "max_level": 99
+        },
+        {
+            "x": 181,
+            "y": 29,
+            "id": 55,
+            "type": 4,
+            "min_level": 61,
+            "max_level": 99
+        }
+    ],
+    "shops": [],
+    "npcs": [
+        {
+            "id": 5167,
+            "vnum": 3131,
+            "x": 228,
+            "y": 25
+        },
+        {
+            "id": 5166,
+            "vnum": 3131,
+            "x": 136,
+            "y": 97
+        },
+        {
+            "id": 5165,
+            "vnum": 3131,
+            "x": 142,
+            "y": 81
+        },
+        {
+            "id": 5164,
+            "vnum": 3131,
+            "x": 216,
+            "y": 237
+        },
+        {
+            "id": 5163,
+            "vnum": 3131,
+            "x": 235,
+            "y": 116
+        }
+    ],
+    "teleporters": []
+}

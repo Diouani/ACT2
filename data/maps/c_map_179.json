@@ -1,0 +1,117 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 186,
+            "destination_map_x": 203,
+            "destination_map_y": 108,
+            "source_map_id": 179,
+            "source_map_x": 43,
+            "source_map_y": 121,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 205,
+            "destination_map_x": 100,
+            "destination_map_y": 21,
+            "source_map_id": 179,
+            "source_map_x": 123,
+            "source_map_y": 43,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 178,
+            "destination_map_x": 115,
+            "destination_map_y": 32,
+            "source_map_id": 179,
+            "source_map_x": 125,
+            "source_map_y": 206,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 2567,
+            "destination_map_x": 16,
+            "destination_map_y": 37,
+            "source_map_id": 179,
+            "source_map_x": 153,
+            "source_map_y": 100,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [],
+    "shops": [],
+    "npcs": [
+        {
+            "id": 10999,
+            "vnum": 2000,
+            "x": 104,
+            "y": 133
+        },
+        {
+            "id": 10998,
+            "vnum": 1074,
+            "x": 143,
+            "y": 80
+        },
+        {
+            "id": 10997,
+            "vnum": 1074,
+            "x": 137,
+            "y": 62
+        },
+        {
+            "id": 10996,
+            "vnum": 1074,
+            "x": 135,
+            "y": 128
+        },
+        {
+            "id": 10995,
+            "vnum": 1074,
+            "x": 132,
+            "y": 104
+        },
+        {
+            "id": 10994,
+            "vnum": 1074,
+            "x": 125,
+            "y": 146
+        },
+        {
+            "id": 10993,
+            "vnum": 1074,
+            "x": 114,
+            "y": 104
+        },
+        {
+            "id": 10992,
+            "vnum": 1074,
+            "x": 104,
+            "y": 51
+        },
+        {
+            "id": 10991,
+            "vnum": 1074,
+            "x": 100,
+            "y": 70
+        },
+        {
+            "id": 10990,
+            "vnum": 1074,
+            "x": 99,
+            "y": 87
+        },
+        {
+            "id": 10989,
+            "vnum": 1074,
+            "x": 78,
+            "y": 128
+        },
+        {
+            "id": 10988,
+            "vnum": 1065,
+            "x": 123,
+            "y": 117
+        }
+    ],
+    "teleporters": []
+}

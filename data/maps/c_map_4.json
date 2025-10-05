@@ -1,0 +1,347 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 3,
+            "destination_map_x": 156,
+            "destination_map_y": 2,
+            "source_map_id": 4,
+            "source_map_x": 28,
+            "source_map_y": 178,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 76,
+            "destination_map_x": 21,
+            "destination_map_y": 19,
+            "source_map_id": 4,
+            "source_map_x": 49,
+            "source_map_y": 4,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 5,
+            "destination_map_x": 112,
+            "destination_map_y": 218,
+            "source_map_id": 4,
+            "source_map_x": 160,
+            "source_map_y": 2,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 2,
+            "destination_map_x": 69,
+            "destination_map_y": 2,
+            "source_map_id": 4,
+            "source_map_x": 161,
+            "source_map_y": 178,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 2110,
+            "destination_map_x": 41,
+            "destination_map_y": 43,
+            "source_map_id": 4,
+            "source_map_x": 224,
+            "source_map_y": 103,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 2510,
+            "destination_map_x": 20,
+            "destination_map_y": 50,
+            "source_map_id": 4,
+            "source_map_x": 228,
+            "source_map_y": 53,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [
+        {
+            "x": 35,
+            "y": 142,
+            "id": 16,
+            "type": 4,
+            "min_level": 26,
+            "max_level": 99
+        },
+        {
+            "x": 44,
+            "y": 48,
+            "id": 22,
+            "type": 4,
+            "min_level": 32,
+            "max_level": 99
+        },
+        {
+            "x": 121,
+            "y": 26,
+            "id": 21,
+            "type": 4,
+            "min_level": 31,
+            "max_level": 99
+        },
+        {
+            "x": 136,
+            "y": 77,
+            "id": 20,
+            "type": 4,
+            "min_level": 30,
+            "max_level": 99
+        },
+        {
+            "x": 145,
+            "y": 146,
+            "id": 17,
+            "type": 4,
+            "min_level": 27,
+            "max_level": 99
+        },
+        {
+            "x": 189,
+            "y": 65,
+            "id": 19,
+            "type": 4,
+            "min_level": 29,
+            "max_level": 99
+        },
+        {
+            "x": 203,
+            "y": 134,
+            "id": 18,
+            "type": 4,
+            "min_level": 28,
+            "max_level": 99
+        },
+        {
+            "x": 229,
+            "y": 33,
+            "id": 704,
+            "type": 4,
+            "min_level": 90,
+            "max_level": 99
+        }
+    ],
+    "shops": [
+        {
+            "npc_id": 3648,
+            "npc_vnum": 935,
+            "npc_x": 216,
+            "npc_y": 111,
+            "menu_type": 0,
+            "shop_type": 0
+        }
+    ],
+    "npcs": [
+        {
+            "id": 3648,
+            "vnum": 935,
+            "x": 216,
+            "y": 111
+        },
+        {
+            "id": 3647,
+            "vnum": 943,
+            "x": 18,
+            "y": 9
+        },
+        {
+            "id": 3646,
+            "vnum": 880,
+            "x": 199,
+            "y": 113
+        },
+        {
+            "id": 3645,
+            "vnum": 880,
+            "x": 199,
+            "y": 111
+        },
+        {
+            "id": 3644,
+            "vnum": 880,
+            "x": 199,
+            "y": 109
+        },
+        {
+            "id": 3643,
+            "vnum": 880,
+            "x": 197,
+            "y": 113
+        },
+        {
+            "id": 3642,
+            "vnum": 880,
+            "x": 197,
+            "y": 111
+        },
+        {
+            "id": 3641,
+            "vnum": 880,
+            "x": 197,
+            "y": 109
+        },
+        {
+            "id": 3640,
+            "vnum": 880,
+            "x": 195,
+            "y": 113
+        },
+        {
+            "id": 3639,
+            "vnum": 880,
+            "x": 195,
+            "y": 111
+        },
+        {
+            "id": 3638,
+            "vnum": 880,
+            "x": 195,
+            "y": 109
+        },
+        {
+            "id": 3637,
+            "vnum": 880,
+            "x": 193,
+            "y": 113
+        },
+        {
+            "id": 3636,
+            "vnum": 880,
+            "x": 193,
+            "y": 111
+        },
+        {
+            "id": 3635,
+            "vnum": 880,
+            "x": 193,
+            "y": 109
+        },
+        {
+            "id": 3634,
+            "vnum": 880,
+            "x": 191,
+            "y": 113
+        },
+        {
+            "id": 3633,
+            "vnum": 880,
+            "x": 191,
+            "y": 111
+        },
+        {
+            "id": 3632,
+            "vnum": 880,
+            "x": 191,
+            "y": 109
+        },
+        {
+            "id": 3631,
+            "vnum": 355,
+            "x": 200,
+            "y": 154
+        },
+        {
+            "id": 3630,
+            "vnum": 354,
+            "x": 169,
+            "y": 50
+        },
+        {
+            "id": 3629,
+            "vnum": 3352,
+            "x": 218,
+            "y": 28
+        },
+        {
+            "id": 3628,
+            "vnum": 3130,
+            "x": 22,
+            "y": 80
+        },
+        {
+            "id": 3627,
+            "vnum": 3130,
+            "x": 212,
+            "y": 11
+        },
+        {
+            "id": 3626,
+            "vnum": 3130,
+            "x": 157,
+            "y": 78
+        },
+        {
+            "id": 3625,
+            "vnum": 3130,
+            "x": 194,
+            "y": 74
+        },
+        {
+            "id": 3624,
+            "vnum": 3130,
+            "x": 84,
+            "y": 131
+        },
+        {
+            "id": 3623,
+            "vnum": 3130,
+            "x": 66,
+            "y": 121
+        },
+        {
+            "id": 3622,
+            "vnum": 3130,
+            "x": 14,
+            "y": 92
+        },
+        {
+            "id": 3621,
+            "vnum": 3130,
+            "x": 99,
+            "y": 140
+        },
+        {
+            "id": 3620,
+            "vnum": 3130,
+            "x": 69,
+            "y": 107
+        },
+        {
+            "id": 3619,
+            "vnum": 3130,
+            "x": 206,
+            "y": 133
+        },
+        {
+            "id": 3618,
+            "vnum": 1567,
+            "x": 222,
+            "y": 34
+        },
+        {
+            "id": 1110123,
+            "vnum": 2696,
+            "x": 197,
+            "y": 142
+        },
+        {
+            "id": 1110824,
+            "vnum": 2697,
+            "x": 202,
+            "y": 138
+        },
+        {
+            "id": 1482689,
+            "vnum": 2618,
+            "x": 180,
+            "y": 65
+        },
+        {
+            "id": 1482684,
+            "vnum": 823,
+            "x": 187,
+            "y": 64
+        }
+    ],
+    "teleporters": []
+}

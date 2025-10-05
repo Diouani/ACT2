@@ -1,0 +1,94 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 66,
+            "destination_map_x": 81,
+            "destination_map_y": 33,
+            "source_map_id": 11,
+            "source_map_x": 2,
+            "source_map_y": 85,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 10,
+            "destination_map_x": 60,
+            "destination_map_y": 68,
+            "source_map_id": 11,
+            "source_map_x": 55,
+            "source_map_y": 58,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 12,
+            "destination_map_x": 60,
+            "destination_map_y": 64,
+            "source_map_id": 11,
+            "source_map_x": 60,
+            "source_map_y": 63,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 64,
+            "destination_map_x": 29,
+            "destination_map_y": 81,
+            "source_map_id": 11,
+            "source_map_x": 67,
+            "source_map_y": 1,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 65,
+            "destination_map_x": 4,
+            "destination_map_y": 29,
+            "source_map_id": 11,
+            "source_map_x": 118,
+            "source_map_y": 85,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [
+        {
+            "x": 11,
+            "y": 6,
+            "id": 34,
+            "type": 4,
+            "min_level": 44,
+            "max_level": 99
+        },
+        {
+            "x": 108,
+            "y": 7,
+            "id": 35,
+            "type": 4,
+            "min_level": 45,
+            "max_level": 99
+        },
+        {
+            "x": 109,
+            "y": 114,
+            "id": 36,
+            "type": 4,
+            "min_level": 46,
+            "max_level": 99
+        }
+    ],
+    "shops": [
+        {
+            "npc_id": 4317,
+            "npc_vnum": 937,
+            "npc_x": 8,
+            "npc_y": 107,
+            "menu_type": 0,
+            "shop_type": 0
+        }
+    ],
+    "npcs": [
+        {
+            "id": 4317,
+            "vnum": 937,
+            "x": 8,
+            "y": 107
+        }
+    ],
+    "teleporters": []
+}

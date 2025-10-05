@@ -1,0 +1,187 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 47,
+            "destination_map_x": 38,
+            "destination_map_y": 171,
+            "source_map_id": 146,
+            "source_map_x": 65,
+            "source_map_y": 117,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 145,
+            "destination_map_x": 125,
+            "destination_map_y": 168,
+            "source_map_id": 146,
+            "source_map_x": 3,
+            "source_map_y": 169,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 145,
+            "destination_map_x": 115,
+            "destination_map_y": 117,
+            "source_map_id": 146,
+            "source_map_x": 3,
+            "source_map_y": 118,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 145,
+            "destination_map_x": 104,
+            "destination_map_y": 87,
+            "source_map_id": 146,
+            "source_map_x": 2,
+            "source_map_y": 85,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 145,
+            "destination_map_x": 87,
+            "destination_map_y": 6,
+            "source_map_id": 146,
+            "source_map_x": 9,
+            "source_map_y": 6,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [],
+    "shops": [
+        {
+            "npc_id": 9946,
+            "npc_vnum": 528,
+            "npc_x": 11,
+            "npc_y": 84,
+            "menu_type": 0,
+            "shop_type": 0
+        },
+        {
+            "npc_id": 9945,
+            "npc_vnum": 578,
+            "npc_x": 25,
+            "npc_y": 102,
+            "menu_type": 1,
+            "shop_type": 22
+        },
+        {
+            "npc_id": 9944,
+            "npc_vnum": 527,
+            "npc_x": 23,
+            "npc_y": 148,
+            "menu_type": 4,
+            "shop_type": 21
+        },
+        {
+            "npc_id": 9943,
+            "npc_vnum": 524,
+            "npc_x": 49,
+            "npc_y": 145,
+            "menu_type": 0,
+            "shop_type": 20
+        },
+        {
+            "npc_id": 9942,
+            "npc_vnum": 525,
+            "npc_x": 40,
+            "npc_y": 173,
+            "menu_type": 0,
+            "shop_type": 19
+        },
+        {
+            "npc_id": 9941,
+            "npc_vnum": 526,
+            "npc_x": 42,
+            "npc_y": 95,
+            "menu_type": 0,
+            "shop_type": 18
+        },
+        {
+            "npc_id": 9940,
+            "npc_vnum": 523,
+            "npc_x": 41,
+            "npc_y": 129,
+            "menu_type": 0,
+            "shop_type": 17
+        },
+        {
+            "npc_id": 9939,
+            "npc_vnum": 522,
+            "npc_x": 40,
+            "npc_y": 84,
+            "menu_type": 0,
+            "shop_type": 16
+        },
+        {
+            "npc_id": 9938,
+            "npc_vnum": 521,
+            "npc_x": 41,
+            "npc_y": 72,
+            "menu_type": 0,
+            "shop_type": 15
+        }
+    ],
+    "npcs": [
+        {
+            "id": 9946,
+            "vnum": 528,
+            "x": 11,
+            "y": 84
+        },
+        {
+            "id": 9945,
+            "vnum": 578,
+            "x": 25,
+            "y": 102
+        },
+        {
+            "id": 9944,
+            "vnum": 527,
+            "x": 23,
+            "y": 148
+        },
+        {
+            "id": 9943,
+            "vnum": 524,
+            "x": 49,
+            "y": 145
+        },
+        {
+            "id": 9942,
+            "vnum": 525,
+            "x": 40,
+            "y": 173
+        },
+        {
+            "id": 9941,
+            "vnum": 526,
+            "x": 42,
+            "y": 95
+        },
+        {
+            "id": 9940,
+            "vnum": 523,
+            "x": 41,
+            "y": 129
+        },
+        {
+            "id": 9939,
+            "vnum": 522,
+            "x": 40,
+            "y": 84
+        },
+        {
+            "id": 9938,
+            "vnum": 521,
+            "x": 41,
+            "y": 72
+        },
+        {
+            "id": 9937,
+            "vnum": 2658,
+            "x": 58,
+            "y": 114
+        }
+    ],
+    "teleporters": []
+}

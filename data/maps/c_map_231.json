@@ -1,0 +1,33 @@
+{
+    "portals": [
+        {
+            "destination_map_id": 230,
+            "destination_map_x": 79,
+            "destination_map_y": 437,
+            "source_map_id": 231,
+            "source_map_x": 58,
+            "source_map_y": 109,
+            "portal_type": -1
+        },
+        {
+            "destination_map_id": 232,
+            "destination_map_x": 120,
+            "destination_map_y": 322,
+            "source_map_id": 231,
+            "source_map_x": 371,
+            "source_map_y": 106,
+            "portal_type": -1
+        }
+    ],
+    "timespaces": [],
+    "shops": [],
+    "npcs": [
+        {
+            "id": 12833,
+            "vnum": 2548,
+            "x": 256,
+            "y": 87
+        }
+    ],
+    "teleporters": []
+}
